@@ -1,6 +1,8 @@
 CLBLAS.jl
 ============
 
+Nicu was here.
+
 [![Build Status](https://travis-ci.org/JuliaGPU/CLBLAS.jl.svg)](https://travis-ci.org/JuliaGPU/CLBLAS.jl)
 
 AMD clBLAS bindings for Julia.
